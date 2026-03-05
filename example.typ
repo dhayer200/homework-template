@@ -1,4 +1,4 @@
-#import "@local/homework-template:0.1.0": *
+#import "lib.typ": *
 
 #header(
   name: "Deep Hayer",
