@@ -71,10 +71,10 @@
 
 // ── Header ───────────────────────────────────────────────────────────────────
 #let header(
-  name,       // required — pass a string or none
-  course,     // required — pass a string or none
-  hw,         // required — pass a string or none
-  date,       // required — pass a string or none
+  name: none,
+  course: none,
+  hw: none,
+  date: none,
   professor: none,
   topic: none,
   related: none,
