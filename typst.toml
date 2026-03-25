@@ -9,7 +9,7 @@ keywords    = ["homework", "math", "notes", "montaigne", "axler", "polymath"]
 categories  = ["report"]
 repository  = "https://github.com/dhayer200/polymath"
 compiler    = "0.11.0"
-exclude     = []
+exclude     = ["example.typ"]
 
 [template]
 path       = "template"
